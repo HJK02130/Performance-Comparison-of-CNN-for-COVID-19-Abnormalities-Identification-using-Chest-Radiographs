@@ -15,7 +15,7 @@
 10. [Developer](#developer)
 
 ### Overview
-
+현재 COVID-19의 주진단방법은 PCR
 
 ### Requirements
 + python 3.6
