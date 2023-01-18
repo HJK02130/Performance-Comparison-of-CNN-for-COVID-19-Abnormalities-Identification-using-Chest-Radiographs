@@ -31,7 +31,7 @@ filetree(modifying)
 
 ### Architecture
 + Data
-	+ RSNA Data
+	+ [RSNA Data](https://www.kaggle.com/competitions/siim-covid19-detection/)
 		+ Chest Radiographs
 		+ Image level data
 		+ Study level data
