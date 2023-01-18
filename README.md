@@ -6,13 +6,12 @@
 1. [Overview](#overview)
 2. [Requirements](#requirements)
 3. [Languages and Development Tools](#languages-and-development-tools)
-4. [Issue](#issue)
-5. [Usage](#usage)
-6. [Architecture](#architecture)
-7. [Result](#result)
-8. [Conclusion](#conclusion)
-9. [Reference](#reference)
-10. [Developer](#developer)
+4. [Usage](#usage)
+5. [Architecture](#architecture)
+6. [Result](#result)
+7. [Conclusion](#conclusion)
+8. [Reference](#reference)
+9. [Developer](#developer)
 
 ### Overview
 현재 COVID-19의 주진단방법은 PCR
@@ -24,6 +23,7 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
 ### Usage
+filetree(modifying)
 
 ### Architecture
 
