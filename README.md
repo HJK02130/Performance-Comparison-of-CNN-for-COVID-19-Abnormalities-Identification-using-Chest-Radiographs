@@ -48,26 +48,11 @@ filetree(modifying)
 <br/>
 
 + Model
-	+ Base model
-		+ Pre-trained VGGNet19
-		+ Augmentation X
-		<br/>
-	+ Model I
-		+ Pre-trained VGGNet19
-		+ Augmentation
-			1. crop
-			2. blur
-			3. jitter
-		<br/>
-	+ Model II
-		+ Pre-trained EfficientNet-B4
-		+ Augmentation X<br/>	
-
 ||Base Model|Model I|Model II|
 |:---:|:---|:---|:---|
 |Image Size|512x512|512x512|512x512|
 |Classification|Binary|Binary|Binary|
-|Augmentation|X|O|X|
+|Augmentation|-|crop, blur, jitter|-|
 |Model|VGGNet|VGGNet|EfficientNet|
 
 <br/>
