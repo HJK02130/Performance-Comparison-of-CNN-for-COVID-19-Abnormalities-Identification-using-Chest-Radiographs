@@ -33,17 +33,15 @@ filetree(modifying)
 ### Architecture
 + Data
 	+ [RSNA Data](https://www.kaggle.com/competitions/siim-covid19-detection/data)
-		+ Chest Radiographs
-		+ Image level data
-		+ Study level data
 		<br/>
-	+ Preprocessing
-		+ Chest Radiographs
-			1. Resize (512 x 512)
-		+ Study level data, Image level data
-			1. 'Typical', 'Indeterminate' labeled data → 'Positive' label
-			1. Eliminate inconsistency data
-			2. Eliminate 'Atypical' labeled data
+
++ Preprocessing
+	+ Chest Radiographs
+		1. Resize (512 x 512)
+	+ Study level data, Image level data
+		1. 'Typical', 'Indeterminate' labeled data → 'Positive' label
+		2. Eliminate inconsistency data
+		3. Eliminate 'Atypical' labeled data
 		<br/>
 	+ Split
 		+ Train : Validation : Test = 4 : 1 : 1<br/>
