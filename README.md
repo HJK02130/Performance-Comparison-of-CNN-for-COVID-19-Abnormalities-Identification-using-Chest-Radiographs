@@ -28,8 +28,8 @@ The most commonly used main diagnostic method for COVID-19 is Polymerase Chain R
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
 ### Usage
-└── src/<br/>
-	├── aug_image.ipynb<br/>
+src/<br/>
+├── aug_image.ipynb<br/>
     ├── eda.ipynb<br/>
     ├── main_Aug.ipynb<br/>
     ├── main_NoAug.ipynb<br/>
