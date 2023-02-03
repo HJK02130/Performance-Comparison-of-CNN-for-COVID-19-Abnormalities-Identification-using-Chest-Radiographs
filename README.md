@@ -5,13 +5,12 @@
 ### Contents
 1. [Overview](#overview)
 2. [Requirements](#requirements)
-3. [Languages and Development Tools](#languages-and-development-tools)
-4. [Usage](#usage)
-5. [Architecture](#architecture)
-6. [Result](#result)
-7. [Conclusion](#conclusion)
-8. [Reference](#reference)
-9. [Developer](#developer)
+3. [Usage](#usage)
+4. [Architecture](#architecture)
+5. [Result](#result)
+6. [Conclusion](#conclusion)
+7. [Reference](#reference)
+8. [Developer](#developer)
 
 ### Overview
 [[Kaggle : SIIM-FISABIO-RSNA COVID-19 Detection]](https://www.kaggle.com/competitions/siim-covid19-detection/)<br/>
@@ -23,9 +22,6 @@ The most commonly used main diagnostic method for COVID-19 is Polymerase Chain R
 
 ### Requirements
 + python 3.6
-
-### Languages and Development Tools
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
 
 ### Usage
 src/<br/>
