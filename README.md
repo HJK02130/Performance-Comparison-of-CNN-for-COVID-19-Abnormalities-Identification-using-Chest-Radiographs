@@ -29,7 +29,7 @@ The most commonly used main diagnostic method for COVID-19 is Polymerase Chain R
 
 ### Usage
 └── src/<br/>
-    ├── aug_image.ipynb<br/>
+	├── aug_image.ipynb<br/>
     ├── eda.ipynb<br/>
     ├── main_Aug.ipynb<br/>
     ├── main_NoAug.ipynb<br/>
