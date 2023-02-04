@@ -33,6 +33,8 @@ src/<br/>
     └── split.ipynb<br/>
 
 ### Architecture
+<div align=center>  <img src="./img/architecture.png"> </div>
+<br/>
 + Data
 	+ [RSNA Data](https://www.kaggle.com/competitions/siim-covid19-detection/data)
 		<br/>
