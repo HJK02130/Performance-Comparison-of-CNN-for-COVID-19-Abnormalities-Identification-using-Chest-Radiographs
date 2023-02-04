@@ -21,7 +21,9 @@ The most commonly used main diagnostic method for COVID-19 is Polymerase Chain R
 
 
 ### Requirements
-+ python 3.6
++ Python 3.8
++ Pytorch 1.3.1
++ GPU
 
 ### Usage
 src/<br/>
