@@ -82,7 +82,11 @@ The pre-trained VGGNet19 model without augmentation showed the highest performan
 Since the process of identifying a better algorithm through performance comparison is a process of obtaining better results through more various attempts, so this is meaningful for the next step. Comparing the performance of more various deep learning models and improving the limitations is expected to allow us to build a COVID-19 classification deep learning model using chest radiographs data with higher accuracy than our result. improved algorithms based on this study could be used not only for COVID-19 but also for other lung diseases.
 
 ### Reference
-
+[1] "SIIM-FISABIO-RSNA COVID-19 Detection," Kaggle, https://www.kaggle.com/competitions/siim-covid19-detection.
+[2] "1. 왜 COVID-19을 영상학적으로 판단하나요?," Time Traveler, last modified June 10, 2021, accessed Dec 2, 2022, https://89douner.tistory.com/251.
+[3] Mohamed Elgendi, Muhammad Umer Nasir, Qunfeng Tang, David Smith, John-Paul Grenier, Catherine Batte, Bradley Spieler, William Donald Leslie, Carlo Menon, Richard Ribbon Fletcher, Newton Howard, Rabab Ward, William Parker, Savvas Nicolaou The Effectiveness of Image Augmentation in Deep Learning Networks for Detecting COVID-19: A Geometric Transformation Perspective, 2021.
+[4] "Pytorch Image Augmentation," Incredible.AI, last modified Apr 25, 2020, accessed Nov 27, 2022, http://incredible.ai/pytorch/2020/04/25/Pytorch-Image-Augmentation/.
+[5] "Multi-GPU Example," Pytorch, https://tutorials.pytorch.kr/beginner/former_torchies/parallelism_tutorial.html.
 
 ### Developer
 Hyunji Kim, Yoonjeong Kang, Minjeong Seo, Byeongjoon Yoo, Miran Jo <br/>
