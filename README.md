@@ -50,9 +50,6 @@ src/<br/>
 		+ Negative label : Negative pneumonia labeled data
 	+ Elminate Atypical Appearance labeled data
 	+ Eliminate inconsistency data
-<div align=center>  <img src="./img/preprocessing.png"> </div>
-	
-
 
 <br/>
 
