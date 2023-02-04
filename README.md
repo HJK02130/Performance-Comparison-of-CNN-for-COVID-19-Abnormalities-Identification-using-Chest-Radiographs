@@ -86,7 +86,7 @@ Since the process of identifying a better algorithm through performance comparis
 [2] Time Traveler. (2021). 1. 왜 COVID-19을 영상학적으로 판단하나요?. https://89douner.tistory.com/251<br/>
 [3] Mohamed Elgendi, Muhammad Umer Nasir, Qunfeng Tang, David Smith, John-Paul Grenier, Catherine Batte, Bradley Spieler, William Donald Leslie, Carlo Menon, Richard Ribbon Fletcher, Newton Howard, Rabab Ward, William Parker, Savvas Nicolaou. (2021). The Effectiveness of Image Augmentation in Deep Learning Networks for Detecting COVID-19: A Geometric Transformation Perspective, 8, https://doi.org/10.3389/fmed.2021.629134<br/>
 [4] Incredible.AI. (2020). Pytorch Image Augmentation. http://incredible.ai/pytorch/2020/04/25/Pytorch-Image-Augmentation/<br/>
-[5] Pytorch. (n.d.) Multi-GPU Example. https://tutorials.pytorch.kr/beginner/former_torchies/parallelism_tutorial.html
+[5] Pytorch. (n.d.). Multi-GPU Example. https://tutorials.pytorch.kr/beginner/former_torchies/parallelism_tutorial.html
 
 ### Developer
 Hyunji Kim, Yoonjeong Kang, Minjeong Seo, Byeongjoon Yoo, Miran Jo <br/>
