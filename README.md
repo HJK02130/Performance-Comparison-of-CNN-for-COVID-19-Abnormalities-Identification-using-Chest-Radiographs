@@ -38,15 +38,18 @@ src/<br/>
 		<br/>
 
 + Preprocessing
-	+ Chest Radiographs
-		1. Resize (512 x 512)
-	+ Study level data, Image level data
-		1. 'Typical', 'Indeterminate' labeled data → 'Positive' label
-		2. Eliminate inconsistency data
-		3. Eliminate 'Atypical' labeled data
-		<br/>
-	+ Split
+	+ Resize Chest Radiographs to 512 x 512
+	+ Split Dataset
 		+ Train : Validation : Test = 4 : 1 : 1<br/>
+	+ labeling
+		+ Positive label : Typical Appearance, Indeterminate Appearance labeled data
+		+ Negative label : Negative pneumonia labeled data
+	+ Elminate Atypical Appearance labeled data
+	+ Eliminate inconsistency data
+<div align=center>  <img src="./img/preprocessing.png"> </div>
+	
+
+
 <br/>
 
 + Model
